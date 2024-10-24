@@ -1,0 +1,69 @@
+h1#heading1{
+    text-align: center;
+}
+.paragraph{
+    font-family: "Bodoni MT Condensed";
+}
+#mydivision{
+    background-color: grey;
+    margin-left: 400px;
+    margin-right: 600px;
+    padding: 30px;
+    color: white;
+}
+#test{
+    background-color: #ff006f;
+    color: white;
+    margin-left: 250px;
+    margin-right: 280px;
+    padding: 80px;
+    display: flex;
+    border-radius: 400px;
+}
+#suv3{
+    margin-right: 40px;
+}
+.icons{
+    margin-right: 20x;
+    font-size: small;
+
+}
+#accounting:hover{
+    background-color: #c1a082;
+}
+#advertisement:hover{
+    background-color: blanchedalmond;
+}
+#payment:hover{
+    background-color: #87ccf8;
+}
+#main{
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+#advertisement{
+    background-color: #87ccf8;
+    color: white;
+    margin-left: 20px;
+    padding: 30px;
+    margin-right: 50px;
+    box-shadow: 8px 6px 12px 4px darkgrey;
+}
+#accounting{
+    background-color: grey;
+    color: white;
+    margin-left: 20px;
+    padding: 30px;
+    margin-right: 50px;
+     box-shadow: 8px 6px 12px 4px darkgrey;
+}
+#payment{
+    background-color: #ff006f;
+    color: white;
+    margin-left: 100px;
+    padding: 30px;
+    margin-right: 100px;
+     box-shadow: 8px 6px 12px 4px darkgrey;
+}
